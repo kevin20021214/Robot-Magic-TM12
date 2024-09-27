@@ -9,7 +9,7 @@
 
 ### Installation
     
-    $ git clone https://github.com/atticus453/robot_magic_tm12.git
+    $ git clone https://github.com/kevin20021214/Robot-Magic-TM12.git
     
     
 ### Camera Setup
